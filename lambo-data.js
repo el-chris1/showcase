@@ -103,4 +103,6 @@ var lamboData = [
     speed: '202 mph',
     year: '2003',
     funFact: 'The Gallardo became Lamborghini’s best-selling model before the Huracán.'
-}
+},
+]
+
